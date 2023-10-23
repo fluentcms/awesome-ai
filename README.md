@@ -254,6 +254,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
+- [AdCreative](https://www.adcreative.ai/) - Generate ad creatives that outperform your competitors.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
@@ -261,6 +262,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## More lists
 
+- [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools, Discover the best AI with over 10,000+ tools, along with peer reviews.
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
 - [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequioa Capital.
 - [Startups - @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT) - An Airtable list by [@builtwithgenai](https://twitter.com/builtwithgenai).
