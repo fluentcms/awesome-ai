@@ -311,6 +311,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [ResearchBot](https://researchbot.ai/) - An AI for assisting with research tasks.
 - [SciGPT](https://scigpt.com/) - An AI for scientific research and discovery.
 
+## Video
+
+- [synthesia](https://www.synthesia.io/) - Turn your text into videos in minutes.
+
 ## Audio
 
 ### Speech
@@ -349,7 +353,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## More lists
 
+- [AI Powered](https://ai-powered.com/) - Find the Best AI-Powered Tools and Services to Automate Tasks, Increase Productivity, and Make Informed Decisions with Intelligent Search.
 - [AI Top Tools](https://aitoptools.com/) - The place to go for AI Tools, Discover the best AI with over 10,000+ tools, along with peer reviews.
+- [Aixploria](https://www.aixploria.com/) - The largest list of AI tools available on the web.
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - A market map of companies working on Generative AI for games, by [a16z](https://a16z.com/).
 - [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) - A curated list of generative deep learning tools, works, models, etc. for artistic uses, by [@filipecalegario](https://github.com/filipecalegario/).
 - [GPT-3 Demo](https://gpt3demo.com/) - Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases.
