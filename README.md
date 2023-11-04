@@ -53,6 +53,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ### Writing assistants
 
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
+- [Chingu](https://chingu.fun/) - Ideas into reality effortlessly with All-purpose AI.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
 - [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
@@ -167,11 +168,14 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Tools
 
+- [Chingu](https://chingu.fun/) - Ideas into reality effortlessly with All-purpose AI.
 - [CreAiT](https://creait.app/) - A platform for creating AI art.
 - [DeepDream](https://deepdreamgenerator.com/) - Use Deep Learning to generate and modify images.
 - [DystopAI](https://dystopai.art/) - A dystopian-themed art generator.
+- [Media](https://www.media.io/) - Refine your media files smartly with AI.
 - [Pix2Story](https://www.pix2story.com/) - Write a story based on an image.
 - [Terraform-Labs](https://github.com/ryanong/Terraform-Labs) - Use machine learning to generate worlds for your favorite RPGs.
+- [Vizcom](https://www.vizcom.ai//) - The next generation of product visualization.
 - [VisualWritingPrompts](https://www.visualwritingprompts.com/) - Generate writing prompts based on an image.
 
 ### Autonomous agents
@@ -313,7 +317,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Video
 
+- [Chingu](https://chingu.fun/) - Ideas into reality effortlessly with All-purpose AI.
+- [Media](https://www.media.io/) - Refine your media files smartly with AI.
 - [synthesia](https://www.synthesia.io/) - Turn your text into videos in minutes.
+- [Zoomerang](https://zoomerang.app/) - Video Template Marketplace.
 
 ## Audio
 
